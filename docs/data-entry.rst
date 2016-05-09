@@ -60,16 +60,19 @@ Family Planning and Reproductive Health Target
 Malaria Narrative
 ~~~~~~~~~~~~~~~~~
 Used to enter narrative data for Malaria
+
 .. image:: _img/phes-malarianarrative.png
 
 Malaria Target
 ~~~~~~~~~~~~~~
 Used to enter target data for Malaria
+
 .. image:: _img/phes-malariatarget.png
 
 Maternal and Child Health Narrative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Used to enter MCH narrative data.
+
 .. image:: _img/phes-mchnarrative.png
 
 Maternal and Child Health Target
@@ -81,25 +84,35 @@ Used to enter MCH target data.
 Nutrition Narrative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Used to enter Nutrition narrative data.
+
 .. image:: _img/phes-nutritionnarrative.png
+
 
 Nutrition Target
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Used to enter Nutrition target data.
+
 .. image:: _img/phes-nutritiontarget.png
+
 
 Training
 ~~~~~~~~
 Holds data for training dataset
+
 .. image:: _img/phes-trainingcounty.png
+
 
 WASH Narrative
 ~~~~~~~~~~~~~~
+
 .. image:: _img/phes-washnarrative.png
+
 
 WASH Target
 ~~~~~~~~~~~
+
 .. image:: _img/phes-washtarget.png
+
 
 
 

@@ -49,7 +49,9 @@ Below is a sample dataset report layout:
 Standard Reports
 ~~~~~~~~~~~~~~~~
 You access the available reports by navigating to Apps->Reports. In the report menu in the left bar, click Standard Report. A list of all pre-defined reports will appear in the main window.
+
 .. image:: _img/phes-standardreport.png
+
 
 You run/view a report by clicking on the name of the report and then selecting "Create" from the contextual menu. If there are any pre-defined paramaters, you will see a report parameter window where you must fill in the values needed for orgunit and/or reporting month, depending on what has been defined in the underlying report table(s). Click on "Get Report" when you are ready. The report will either appear directly in your browser or be available as a PDF file for download, depending on your browser settings for handling PDF files.
 You can save the file and keep it locally on your computer for later use.
