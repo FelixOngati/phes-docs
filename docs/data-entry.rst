@@ -1,61 +1,108 @@
-Getting Started
-===============
-
-System Log in
--------------
-You are required to provide your username and password in order to access the system.
-Figure 1 below is a screenshot of the start page/login page .Once logged in, the user can see their dashboard
-because this is the default landing page.
-.. image:: _img/login.png
-
 Data Entry
-----------
+==========
 The PHES data entry module is designed in such a way that an Implementing Partner can only enter their data. PHES datasets were migrated
 from KePMS, retaining dataset names and look and feel as were in KePMS. After logging into the system, hover mouse pointer/click on the
 *Apps* icon on the far left as shown on the figure below. On the dropdown that appears, click on *Data Entry* icon.
 
-.. image:: _img/data-entry.png
+.. image:: _img/phes-dataentry.png
 
 This navigates to the data entry page, as shown on the figure below. For data entry forms to appear, you will be required to first select an
 organization unit/facility you are reporting for on the left panel, the dataset, reporting period and the implementing partner you are
 reporting for, which comes up after selecting the *organization unit*, *Dataset* and *period* that the user is reporting for.
 
-.. image:: _img/data-entry2.png
+.. image:: _img/phes-dataentryform.png
 
 Data Entry Forms
 ----------------
 Below are sample screenshots for different data entry forms;
 
+Facility Level
+--------------
+Facility level datasets include Malaria, Family Planning and Reproductive Health Performance,
+Maternal and Child Health Performance and Nutrition Performance.
+
 Malaria
 ~~~~~~~
-.. image:: _img/malaria.png
+.. image:: _img/phes-malaria-facility.png
 
 
-Nutrition
-~~~~~~~~~
-.. image:: _img/nutrition.png
+Family Planning and Reproductive Health
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: _img/phes-fprh-facility.png
 
-EBI
-~~~~
-.. image:: _img/ebi.png
+Maternal and Child Health Performance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: _img/phes-mchperformance.png
 
-KMMP
-~~~~
-.. image:: _img/kmmp.png
+Nutrition Performance
+~~~~~~~~~~~~~~~~~~~~~
+.. image:: _img/phes-nutritionperformance.png
+
+County Level
+------------
+County Performance
+~~~~~~~~~~~~~~~~~~
+It is a composite dataset combining several individual sub-datasets as including Nutrition,
+MCH, FP_RH and Malaria implemented as tabs on one form, as shown on the figure below
+
+.. image:: _img/phes-countyperformance.png
+
+Family Planning and Reproductive Health Narrative
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Used to enter narrative data for FPRH
+
+.. image:: _img/phes-fprhnarrative.png
+
+Family Planning and Reproductive Health Target
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: _img/phes-fprhtarget.png
+
+Malaria Narrative
+~~~~~~~~~~~~~~~~~
+Used to enter narrative data for Malaria
+.. image:: _img/phes-malarianarrative.png
+
+Malaria Target
+~~~~~~~~~~~~~~
+Used to enter target data for Malaria
+.. image:: _img/phes-malariatarget.png
+
+Maternal and Child Health Narrative
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Used to enter MCH narrative data.
+.. image:: _img/phes-mchnarrative.png
+
+Maternal and Child Health Target
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Used to enter MCH target data.
+.. image:: _img/phes-mchtarget.png
+
+
+Nutrition Narrative
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Used to enter Nutrition narrative data.
+.. image:: _img/phes-nutritionnarrative.png
+
+Nutrition Target
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Used to enter Nutrition target data.
+.. image:: _img/phes-nutritiontarget.png
 
 Training
 ~~~~~~~~
+Holds data for training dataset
+.. image:: _img/phes-trainingcounty.png
 
-.. image:: _img/training.png
+WASH Narrative
+~~~~~~~~~~~~~~
+.. image:: _img/phes-washnarrative.png
 
-Monitoring and Evaluation
-~~~~~~~~~~~~~~~~~~~~~~~~~
+WASH Target
+~~~~~~~~~~~
+.. image:: _img/phes-washtarget.png
 
-.. image:: _img/mne.png
 
-Supply Chain Essential Medicines
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. image:: _img/scem.png
+
 
 
 

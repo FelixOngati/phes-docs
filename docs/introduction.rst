@@ -1,13 +1,5 @@
 Introduction
 =======================================
-**KePMS** - A computerized database for the management and analysis of the President's Emergency Plan for AIDS Relief Care,
-Treatment and Prevention Indicators .The Kenya HIV/AIDS Program Monitoring System (KePMS) is a Microsoft Access based indicator monitoring
-database for use in the management, monitoring and evaluation of HIV/AIDS treatment and prevention programs supported
-by **PEPFAR**. It is designed to operate at the level of in-country implementing partners who manage program specific data and
-forward it to national level where it is aggregated automatically by USG program managers. The **KEPMS** can reduce the burden of reporting
-and improve the quality of data by standardizing the collection of data. The KEPMS also allows partners to monitor their own performance
-and make decisions informed by the data.
-
 **PHES**   is an open source solution made to support the **PEPFAR** system on similar partner reporting system based on the
 **DHIS2** which is currently being used for health reporting in  Kenya.
 Population Health and Environment System (PHES) is an implementation of the Kenya Program Monitoring and Evaluation System (KePMS) on a
