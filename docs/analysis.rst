@@ -22,9 +22,10 @@ A pivot table similar as below will be displayed. Notice how indicators are list
 .. image:: _img/pivot.png
 
 Reports
--------
+--------
 Reports functionality can be accessed by clicking on Apps -> More apps -> Reports or by clicking on Apps then searching for Reports
 on the search bar.
+
 .. image:: _img/phes-reports.png
 
 There are two main types of reports than can be generated from PHES; Dataset Reports and Standard reports:
@@ -42,6 +43,7 @@ A Criteria window will appear where you fill in the details for your report:
 * **Reporting Organisation unit**: Here you select the orgunit you want the report for. This can be at any level in the hierarchy as the data will be aggregated up to this level automatically (if you do not tick the option above).
 When you are done filling in the report criteria you click on * **Generate** *. The report will appear as HTML in a printer-friendly format. Use the print and save as functions in the browser to print or save (as HTML) the report.You can also export the data set report in Excel and PDF formats.
 Below is a sample dataset report layout:
+
 .. image:: _img/phes-dasetreport.png
 
 Standard Reports
