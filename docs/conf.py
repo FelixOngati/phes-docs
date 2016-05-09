@@ -17,8 +17,8 @@ import sys
 import os
 import shlex
 sys.path.insert(0,os.path.abspath('.'))
-from django.conf import settings
-settings.configure()
+#from django.conf import settings
+#settings.configure()
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -51,8 +51,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'PHES'
-copyright = '2015, UoN AFYA'
-author = 'Felix Ongati'
+copyright = '2016, UoN AFYA'
+author = 'uonafya'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
