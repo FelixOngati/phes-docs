@@ -1,6 +1,6 @@
 Datasets
 =========
-PHES contains the following datasets, categorized here by their level of reporting;
+PHES contains the following datasets, categorized here by their level of reporting
 
 National Level
 ----------------
